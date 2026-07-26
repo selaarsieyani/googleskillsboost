@@ -10,7 +10,7 @@ export REGION=
 ```
 
 ```bash
-curl -LO https://githubusercontent.com/selaarsieyani/googleskillsboost/blob/430c7dd6d7a9c2770ea718d8615679ac134a1ad0/cloud%20run%20functions%20%3A%20challenge%20lab
+curl -LO https://raw.githubusercontent.com/selaarsieyani/googleskillsboost/refs/heads/main/cloud%20run%20functions%20%3A%20challenge%20lab
 sudo chmod +x shela.sh
 ./shela.sh
 ```
