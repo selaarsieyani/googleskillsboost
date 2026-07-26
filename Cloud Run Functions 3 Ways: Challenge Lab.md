@@ -1,5 +1,5 @@
 ### ©Credit
-* **DM for credit or removal request (no copyright intended)** ©All rights and credits for the original content belong to **Shela Arsieyani** [Google Cloud Skill Boost Website](https://github.com) ⚠️
+* **DM for credit or removal request (no copyright intended)** ©All rights and credits for the original content belong to **Google Cloud** [Google Cloud Skill Boost Website](https://github.com) ⚠️
 
 ### Run the following Commands in CloudShell
 
@@ -16,6 +16,6 @@ sudo chmod +x shela.sh
 ```
 
 ### Congratulations !!!!
-Connect with fellow cloud enthusiasts, ask questions, and share your learning journey with **Shela Arsieyani**.
+Connect with fellow cloud enthusiasts, ask questions, and share your learning journey
 
 [![Telegram](https://shields.io)](https://t.me) [![YouTube](https://shields.io)](https://youtube.com) [![Instagram](https://shields.io)](https://instagram.com)
