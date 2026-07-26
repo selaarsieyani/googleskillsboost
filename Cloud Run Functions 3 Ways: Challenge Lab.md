@@ -7,9 +7,11 @@ export HTTP_FUNCTION=
 export FUNCTION_NAME=
 export REGION=
 
+
 curl -LO https://githubusercontent.com
 sudo chmod +x shela.sh
 ./shela.sh
+
 
 ### Congratulations !!!!
 Connect with fellow cloud enthusiasts, ask questions, and share your learning journey
